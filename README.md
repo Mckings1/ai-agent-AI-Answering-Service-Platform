@@ -48,5 +48,7 @@ This is a SaaS platform that provides an AI-powered voice answering service for 
 
 ---
 
-## Directory Structure
+## Contact details
+-- This is a project have worked on and the resources won't be made public
+-- Kindly contact me if you are planning to work on sth like this.
 
